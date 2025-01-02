@@ -9,11 +9,15 @@ Data analytics project using census data to generate insights at the county leve
 Note: You will need to register at cencus.gov to obtain your personal API key
 
 
+
 ## Load Data to Database
 
 
 
-## Querry Database
+
+## Query Database
+
+
 
 
 ## Visualize
