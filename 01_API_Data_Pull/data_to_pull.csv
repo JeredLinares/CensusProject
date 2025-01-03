@@ -1,4 +1,2 @@
-
-male
-female
+"State and County name and ID","get=NAME","for=county:*","in=state:*"
 
